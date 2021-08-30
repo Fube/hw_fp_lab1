@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CircleDriverTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-30T19:24:00" hostname="F249-28" time="0.023">
+  <properties/>
+  <testcase name="invalidMain()" classname="CircleDriverTest" time="0.023"/>
+  <system-out><![CDATA[Enter radius: 
+Invalid input
+Enter radius: 
+Invalid input
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
